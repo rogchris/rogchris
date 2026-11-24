@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="174" viewBox="0 0 480 130" role="img" aria-labelledby="brand">
+  <title id="brand">LUKOWSKI — DEVELOPMENT BEYOND</title>
+  <rect width="480" height="130" rx="12" fill="#f8f4ff"/>
+  <path d="M25 104H455" stroke="#d9c9ec"/>
+  <path d="M38 38v42h29M49 38v31h18l13-13" fill="none" stroke="#6928b4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="102" y="61" fill="#211433" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" letter-spacing="4">LUKOWSKI</text>
+  <text x="104" y="85" fill="#6928b4" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="2">DEVELOPMENT BEYOND</text>
+</svg>
