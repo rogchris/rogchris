@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="143" viewBox="0 0 520 143" role="img" aria-labelledby="title">
+<title id="title">WINDOWS-DIAGNOSE · DEMO-PC. Synthetische Demo.</title>
+<rect width="520" height="143" rx="11" fill="#111019"/>
+<path d="M20 35h480" stroke="#372849"/>
+<text x="20" y="24" fill="#f2ca84" font-family="Arial, sans-serif" font-size="15" font-weight="700">WINDOWS-DIAGNOSE · DEMO-PC</text>
+<g font-family="Consolas, monospace" font-size="21"><text x="20" y="54" fill="#f4eeff">Laufwerk D:</text><text x="498" y="54" text-anchor="end" fill="#f2ca84">5 % frei</text><text x="20" y="83" fill="#f4eeff">EventLog</text><text x="498" y="83" text-anchor="end" fill="#f2ca84">Running</text><text x="20" y="112" fill="#f4eeff">Ergebnis</text><text x="498" y="112" text-anchor="end" fill="#f2ca84">Exitcode 1</text></g>
+</svg>

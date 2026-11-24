@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="114" viewBox="0 0 520 114" role="img" aria-labelledby="title">
+<title id="title">DATEIEN UND ZIELORDNER. Synthetische Demo.</title>
+<rect width="520" height="114" rx="11" fill="#111019"/>
+<path d="M20 35h480" stroke="#372849"/>
+<text x="20" y="24" fill="#a6ceff" font-family="Arial, sans-serif" font-size="15" font-weight="700">DATEIEN UND ZIELORDNER</text>
+<g font-family="Consolas, monospace" font-size="21"><text x="20" y="54" fill="#f4eeff">rechnung-demo.pdf</text><text x="498" y="54" text-anchor="end" fill="#a6ceff">Rechnungen/</text><text x="20" y="83" fill="#f4eeff">notiz-demo.txt</text><text x="498" y="83" text-anchor="end" fill="#a6ceff">_Uncategorized/</text></g>
+</svg>

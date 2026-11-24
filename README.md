@@ -5,19 +5,20 @@
 
 # Chris L.
 
-Ich entwickle Anwendungen für konkrete Arbeitsabläufe und automatisiere wiederkehrende Aufgaben. Mich interessiert dabei auch, wie die Software im Betrieb eingerichtet, geprüft und gewartet wird.
-
-Die Inhalte meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung sind abgeschlossen. Die schriftliche IHK-Abschlussprüfung Teil 2 steht noch aus.
+Anwendungsentwicklung mit C#/.NET und TypeScript. Ich entwickle Backend-Funktionen mit PostgreSQL und automatisiere wiederkehrende Arbeitsschritte. Die Inhalte meiner Umschulung sind abgeschlossen. Die schriftliche IHK-Abschlussprüfung Teil 2 steht noch aus.
 
 ## Projekte
 
-**[Vermietungsverwaltung](https://github.com/rogchris/vermietungsverwaltung)**
-Deutschsprachige Webanwendung für Mietverträge, Forderungen, Zahlungen und geschützte Dokumente. Im Code lassen sich PostgreSQL-Migrationen, die Aufteilung der Fachmodule und die PDF-Erzeugung im Hintergrund nachvollziehen.
+**[Vermietungsverwaltung](https://github.com/rogchris/vermietungsverwaltung)** · Verträge, Forderungen und PDF-Berichte mit Next.js und PostgreSQL.
 
-## Technische Schwerpunkte
+<img src="./assets/demo-vermietung.svg" width="520" alt="Synthetische Monatsabrechnung: 900 Euro Forderung, 600 Euro Zahlung, 300 Euro offen.">
 
-- **Anwendungsentwicklung** · C#/.NET und TypeScript. Ich arbeite mit regelbasierter Dateiverarbeitung, serverseitiger Validierung und automatisierten Tests.
-- **Backend und Datenbanken** · PostgreSQL, SQL-Migrationen und fachliche Datenmodelle, etwa für Mietkonditionen und Zahlungen.
-- **IT-Betrieb und Automatisierung** · Windows-Systemdiagnose, Docker Compose sowie dokumentierte Backup- und Restore-Abläufe.
+**[SmartSort](https://github.com/rogchris/smartsort-cli)** · C#-CLI für regelbasierte Dateisortierung, PDF-Text und DryRun.
 
-Aktuell vertiefe ich automatisierte Prüfungen für Datenbankanwendungen, Python-Automatisierung und den Betrieb von Anwendungen auf Linux.
+<img src="./assets/demo-smartsort.svg" width="520" alt="Synthetischer Sortierlauf: Rechnung in Rechnungen, Notiz in den Standardordner.">
+
+**[WinCheck](https://github.com/rogchris/wincheck-cli)** · C#-CLI für Windows-Dienste und freien Speicher, mit JSON-Ausgabe und Exitcodes.
+
+<img src="./assets/demo-wincheck.svg" width="520" alt="Synthetische Windows-Diagnose: 5 Prozent Speicher frei, EventLog läuft, Warn-Exitcode 1.">
+
+**Technik** · C#/.NET · TypeScript/Next.js · PostgreSQL/Prisma · Docker Compose · xUnit, Vitest und Playwright

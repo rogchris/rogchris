@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="143" viewBox="0 0 520 143" role="img" aria-labelledby="title">
+<title id="title">MONATSABRECHNUNG. Synthetische Demo.</title>
+<rect width="520" height="143" rx="11" fill="#111019"/>
+<path d="M20 35h480" stroke="#372849"/>
+<text x="20" y="24" fill="#b66cff" font-family="Arial, sans-serif" font-size="15" font-weight="700">MONATSABRECHNUNG</text>
+<g font-family="Consolas, monospace" font-size="21"><text x="20" y="54" fill="#f4eeff">Forderung</text><text x="498" y="54" text-anchor="end" fill="#b66cff">900 €</text><text x="20" y="83" fill="#f4eeff">Zahlung</text><text x="498" y="83" text-anchor="end" fill="#b66cff">600 €</text><text x="20" y="112" fill="#f4eeff">Offen</text><text x="498" y="112" text-anchor="end" fill="#b66cff">300 €</text></g>
+</svg>
